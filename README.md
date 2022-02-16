@@ -1,4 +1,4 @@
-# Desafio-Capgemini
+# ⭐ Desafio-Capgemini
 
 Este repositório contém os arquivos relativos ao desafio de programação da Academia Capgemini. 
 
@@ -6,10 +6,10 @@ Este repositório contém os arquivos relativos ao desafio de programação da A
 
 * Clone o repositório ou faça o download do zip do projeto. 
   * Para clonar:
-   * `git clone git@github.com:zgabriellez/Desafio-Capgemini.git`
+  > `git clone git@github.com:zgabriellez/Desafio-Capgemini.git`
   
   * Após fazer o download do zip:
-   * Extraia para alguma pasta todos os arquivos
+  > Extraia para alguma pasta todos os arquivos
 
 ## Por linha de comando
 **Pré-requisitos**
