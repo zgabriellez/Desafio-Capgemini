@@ -15,7 +15,7 @@ Este repositório contém os arquivos relativos ao desafio de programação da A
 **Pré-requisitos**
 
 * Possuir a última versão do Java. A versão utilizada para estes programas foi a 16
-* JUnit 4.1
+* JUnit 4.x
 * Maven (VSCode)
 
 **Run**
