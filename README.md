@@ -31,7 +31,7 @@ Este repositório contém os arquivos relativos ao desafio de programação da A
    * Execute `Q1.Q1_Java`
 * Para Q2 e Q3 é o mesmo processo. 
 
-## VSCode
+## Testes Unitários e VSCode
 
 * Abra o VSCode na pasta de extração anterior
 * Certifique-se de que as extensões Java e JUnit estão devidamente instaladas.
