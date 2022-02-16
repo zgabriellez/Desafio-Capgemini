@@ -22,8 +22,14 @@ Este repositório contém os arquivos relativos ao desafio de programação da A
 
 * Abra a pasta na qual o projeto foi extraído
 * Abra o terminal na pasta
-* Execute `javac nomedoprograma.java`
-* Excute `java nomedoprograma`
+* Para cada programa, deverá haver uma pasta Q1, Q2, Q3.
+* Para Q1: 
+   * Execute, na linha de comando:
+   * cat `Q1/Q1_Java.java` isso deverá abrir todo o código no terminal
+   * Em seguida, execute `javac Q1/Q1_Java.java`. Esse comando irá criar um arquivo de mesmo nome de Q1_Java do tipo classe
+   * Execute `ls Q1`
+   * Execute `Q1.Q1_Java`
+* Para Q2 e Q3 é o mesmo processo. 
 
 ## VSCode
 
