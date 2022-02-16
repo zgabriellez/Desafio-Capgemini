@@ -36,6 +36,6 @@ Este repositório contém os arquivos relativos ao desafio de programação da A
 * Abra o VSCode na pasta de extração anterior
 * Certifique-se de que as extensões Java e JUnit estão devidamente instaladas.
 * Clique sob o arquivo java (Q1, Q2 ou Q3) e clique em `Run Java`. O programa deve pedir uma entrada pelo próprio terminal do VSCode e lhe fornecer uma saída logo após.
-* Para rodar os testes, abra o arquivo com nome `Q_Test`
+* Para rodar os testes, abra o arquivo com nome `Qx_Test`
   * Vá para a aba de testes do VSCode
   * Clique em `Run Test`.
